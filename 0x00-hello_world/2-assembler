@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $CFILE -S -o CFILE.s CFILE.c
+gcc -S -o ${CFIL%.*}.s $CFILE
