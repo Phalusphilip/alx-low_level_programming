@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  * main - A program that print lins with puts functions
- * return: 0 (Done)
+ * return: 0
+ * (Done)
  */
 int main(void)
 {
