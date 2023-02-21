@@ -3,4 +3,7 @@
  * variables declaration
  */
 
-char _putchar = putchar();
+char _putchar()
+{
+	purchar();
+}
