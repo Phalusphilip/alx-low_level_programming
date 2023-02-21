@@ -5,5 +5,5 @@
 
 char _putchar()
 {
-	purchar();
+	putchar();
 }
