@@ -5,5 +5,6 @@
 
 char _putchar()
 {
-	putchar();
+	char n;
+	putchar("%c",n);
 }
