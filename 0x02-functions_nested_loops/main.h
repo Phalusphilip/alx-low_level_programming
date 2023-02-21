@@ -3,8 +3,8 @@
  * variables declaration
  */
 
-char _putchar()
-{
-	char n;
-	putchar("%c",n);
-}
+#ifndef MAIN_H
+#define MAIN_H
+#include <stdio.h>
+
+int _putchar(char c);
